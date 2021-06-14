@@ -1,3 +1,3 @@
 # konie
 
-this is not fun...
+this is not your game.
